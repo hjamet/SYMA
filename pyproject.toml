@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "syma"
+version = "0.1.0"
+description = "http://www.recsyschallenge.com/2022/"
+authors = ["Henri JAMET <henri.jamet@epita.fr>", "Corentin DUCHENE <corentin.duchene@epita.fr>", "Erwan GOUDARD <erwan.goudard@epita.fr>"]
+
+[tool.poetry.dependencies]
+python = "3.9.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
