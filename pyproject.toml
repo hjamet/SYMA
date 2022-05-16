@@ -8,6 +8,7 @@ authors = ["Henri JAMET <henri.jamet@epita.fr>", "Corentin DUCHENE <corentin.duc
 python = "3.9.5"
 pandas = "^1.4.2"
 jupyter = "^1.0.0"
+scikit-surprise = "^1.1.1"
 
 [tool.poetry.dev-dependencies]
 
