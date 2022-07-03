@@ -10,7 +10,8 @@ pandas = "^1.4.2"
 scikit-surprise = "^1.1.1"
 black = "^22.3.0"
 sklearn = "^0.0"
-ipykernel = "^6.13.0"
+ipykernel = "4.10.1"
+traitlets = "4.3.3"
 
 [tool.poetry.dev-dependencies]
 
